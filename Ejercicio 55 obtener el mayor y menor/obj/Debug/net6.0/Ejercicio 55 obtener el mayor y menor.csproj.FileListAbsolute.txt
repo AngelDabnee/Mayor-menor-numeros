@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\bin\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.exe
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\bin\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.deps.json
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\bin\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.runtimeconfig.json
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\bin\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.dll
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\bin\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.pdb
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\obj\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\obj\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\obj\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\obj\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.AssemblyInfo.cs
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\obj\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\obj\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.dll
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\obj\Debug\net6.0\refint\Ejercicio 55 obtener el mayor y menor.dll
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\obj\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.pdb
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\obj\Debug\net6.0\Ejercicio 55 obtener el mayor y menor.genruntimeconfig.cache
+C:\Users\master\source\repos\Ejercicio 55 obtener el mayor y menor\Ejercicio 55 obtener el mayor y menor\obj\Debug\net6.0\ref\Ejercicio 55 obtener el mayor y menor.dll
